@@ -2,6 +2,7 @@
 #include "vec3.h"
 #include <iostream>
 
+// Reference - https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage
 int main() {
 
     // Image
